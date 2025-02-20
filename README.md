@@ -13,4 +13,4 @@ Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
 
-API: WeatherAPI (http://api.weatherapi.com)
+API: WeatherAPI (https://www.weatherapi.com)
